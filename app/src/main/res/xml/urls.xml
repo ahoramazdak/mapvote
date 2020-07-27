@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  <string name="update_url">http://update.shooka.ir/latest/</string>-->
+    <string name="update_url">http://46.209.222.148/shamim/</string>
+    <string name="update_file">update.txt</string>
+</resources>

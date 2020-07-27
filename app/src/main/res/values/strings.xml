@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">VOTE</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">تنظیمات</string>
+
+
+    <string name="action_sign_in_short">ورود</string>
+    <string name="vote">vote</string>
+
+
+    <string name="error_incorrect_password">رمز وارد شده صحیح نمی باشد</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing phone number
+        completions."
+    </string>
+    <string name="title_voter_list">لیست رای دهندگان</string>
+    <string name="title_voter_detail">voter Detail</string>
+    <string name="title_activity_maps">نقشه</string>
+    <string name="voterFinder_text">رای دهنده بعدی</string>
+    <string name="voters_finder_text">مکان رای دهندگان</string>
+    <string name="dummy_title">سرویس حرکت به سوی رای دهنده</string>
+    <string name="dummy_subtitle">با استفاده از این سرویس می توان رای دهنده های در فاصله ۱۰۰۰ متری را در نقشه نشان داد</string>
+        <string name="intro_message">
+        <![CDATA[
+
+
+                برنامه انتخابات ارایه دهنده سرویس های انتخابات می باشد
+                در حال حاظر می توان از سرویس های
+                رای دهنده بعدی
+                رای دهنده
+                به صورت آزمایشی استفاده نمایید
+
+
+        ]]>
+    </string>
+    <string name="title_activity_maps_test">Map</string>
+    <string name="title_activity_voter_finder">DrugFinderActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnIntend">Take (big) Picture</string>
+    <string name="btnIntendS">Take (small) Picture</string>
+    <string name="btnIntendV">Take Video</string>
+    <string name="cannot">Cannot</string>
+    <string name="album_name">CameraSample</string>
+
+    <string name="clear_cache_menu">Clear Caches</string>
+    <string name="clear_cache_complete_toast">Caches have been cleared</string>
+    <string name="imageview_description">Image Thumbnail</string>
+    <string name="no_network_connection_toast">No network connection found</string>
+    <string name="exit_toast">جهت خروج از برنامه خروج را درباره کلیک کنید</string>
+    <string name="update_url">http://46.209.222.148/shamim/</string>
+    <string name="update_file">update.txt</string>
+    <string name="message_downloading_update">Downloading update ...</string>
+    <string name="update_notif_default_title">Update Available</string>
+    <string name="update_notif_default_text">Press Here to Upgrade Your App</string>
+    <string name="update_downloader_default_title">Downloading Update...</string>
+    <string name="SETTING_VALUE_DELIMITER">=</string>
+    <string name="APP_VERSION_KEY">APP_VERSION</string>
+    <string name="APP_URL_KEY">APK_URL</string>
+    <string name="servicetitle">لیست خدمات</string>
+    <string name="appTitle">سامانه اخذ رای الکترونیکی</string>
+    <string name="profileTitle">مشخصات همیار</string>
+    <string name="messages">وضعیت</string>
+    <string name="mapTitle">نقشه</string>
+    <string name="listTitle">لیست رای دهنده ها</string>
+
+</resources>

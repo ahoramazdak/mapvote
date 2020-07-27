@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="55dp"
+        android:gravity="center"
+        android:id="@+id/textViewServicesList"
+        android:layout_centerHorizontal="true"
+        android:text="@string/servicetitle"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+        android:textSize="36sp" />
+
+    <TextView
+        android:id="@+id/textViewVoter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewServicesList"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:autoLink="web"
+        android:text="@string/appTitle"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/textViewDrugStoreFinder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewVoter"
+        android:layout_marginTop="88dp"
+        android:onClick="show_drugstore"
+        android:text="@string/voterFinder_text"
+        android:textAlignment="center"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.DialogWindowTitle"
+        android:textSize="36sp" />
+
+    <TextView
+        android:id="@+id/textViewDrugFinder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewDrugStoreFinder"
+        android:layout_marginTop="75dp"
+        android:onClick="show_drug"
+        android:text="@string/voters_finder_text"
+        android:textAlignment="center"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.DialogWindowTitle"
+        android:textSize="36sp" />
+
+</RelativeLayout>

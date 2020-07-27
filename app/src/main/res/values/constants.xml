@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <item type="integer" name="NOTIFICATION_ID">9191</item>
+    
+    <color name="notification_default_background">#FFFFFF</color>
+    
+    
+</resources>
